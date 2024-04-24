@@ -1,8 +1,17 @@
 # html-webScraping
 
 ## Background
+Scrape titles and preview text from Mars news articles.
 
-## To Do
+Scrape and analyze Mars weather data, which exists in a table.
+
+## Tools
+  - BeautifulSoup
+  - pandas
+  - splinter
+  - bs4
+  - json
+  - matplotlib
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 1. Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
